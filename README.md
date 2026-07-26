@@ -85,7 +85,7 @@ Open to work · Placement Season 2025 · Full-time and Internship
 
 <div align="center">
 
-[![NEXA AI](https://img.shields.io/badge/NEXA%20AI-Live-61DAFB?style=flat-square&logo=vercel)](https://nexa-ai-two.vercel.app)&nbsp;
+[![NEXA AI](https://img.shields.io/badge/NEXA%20AI-Live-61DAFB?style=flat-square&logo=vercel)](nexagpt-frontend-3ci5.vercel.app)&nbsp;
 [![Zerodha Clone](https://img.shields.io/badge/Zerodha%20Clone-Live-00C805?style=flat-square&logo=vercel)](https://zerodha-clone-frontend.vercel.app)&nbsp;
 [![Wanderlust](https://img.shields.io/badge/Wanderlust-Live-FF5A5F?style=flat-square&logo=render)](https://wanderlust-sqgw.onrender.com)
 
