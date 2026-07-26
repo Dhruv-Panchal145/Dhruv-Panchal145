@@ -64,13 +64,32 @@ const dhruv = {
 
 ---
 
-## 🚀 Featured Projects
+## 🖥️ What I'm Shipping
 
-| Project | Tech Stack | Live | Repo |
-|---------|-----------|------|------|
-| **NEXA AI** — Full-stack AI chat app with streaming LLM responses, sidebar history, and context-aware conversations | React · Vite · Node · Groq · MongoDB Atlas | [↗ Live](https://nexa-ai-two.vercel.app) | [↗ Code](https://github.com/dhruv-pancha145) |
-| **Zerodha Clone** — Production-grade stock trading dashboard with JWT auth, cookie sessions, holdings/positions engine & weighted avg pricing | React · Node · Express · MongoDB · JWT | [↗ Live](https://zerodha-clone-frontend.vercel.app) | [↗ Code](https://github.com/dhruv-pancha145) |
-| **Wanderlust** — Full-featured Airbnb-style rental platform with MVC architecture, auth, image uploads, and map integration | Node · Express · MongoDB · EJS · Passport.js | [↗ Live](https://wanderlust-sqgw.onrender.com) | [↗ Code](https://github.com/dhruv-pancha145) |
+```bash
+dhruv@dev:~$ ls -1 ~/projects/
+
+▶  nexa-ai/          # AI chat app — React + Groq (Llama 3.3 70B) + MongoDB Atlas
+▶  zerodha-clone/    # Stock trading dashboard — MERN + JWT + weighted avg pricing
+▶  wanderlust/       # Airbnb-style platform — Node + EJS + Passport.js + Cloudinary
+
+dhruv@dev:~$ git log --oneline -3
+
+a1f3c9e  feat: word-by-word AI streaming animation (NEXA)
+b82de01  fix: httpOnly cookie hardening + sameSite:none (Zerodha)
+f4c210a  ci: GitHub Actions pipeline — build, test, deploy
+
+dhruv@dev:~$ echo $STATUS
+Open to work · Placement Season 2025 · Full-time and Internship
+```
+
+<div align="center">
+
+[![NEXA AI](https://img.shields.io/badge/NEXA%20AI-Live-61DAFB?style=flat-square&logo=vercel)](https://nexa-ai-two.vercel.app)&nbsp;
+[![Zerodha Clone](https://img.shields.io/badge/Zerodha%20Clone-Live-00C805?style=flat-square&logo=vercel)](https://zerodha-clone-frontend.vercel.app)&nbsp;
+[![Wanderlust](https://img.shields.io/badge/Wanderlust-Live-FF5A5F?style=flat-square&logo=render)](https://wanderlust-sqgw.onrender.com)
+
+</div>
 
 ---
 
