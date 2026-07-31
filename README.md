@@ -23,7 +23,7 @@
 
 ```javascript
 const dhruv = {
-  role        : "Full-Stack MERN Developer | Final Year B.Tech (IT) @ GEC Modasa",
+  role        : "Full-Stack MERN Developer | Final Year B.E (IT) @ GEC Modasa",
   location    : "Ahmedabad, Gujarat, India 🇮🇳",
   stack       : ["MongoDB", "Express.js", "React.js", "Node.js"],
   currentFocus: "High-performance web apps + AI/LLM integrations (Groq, Llama)",
@@ -33,7 +33,7 @@ const dhruv = {
 };
 ```
 
-> 💼 Actively seeking **SDE / Backend / Full-Stack roles** — placement season 2025. Open to full-time & internship opportunities.
+> 💼 Actively seeking **SDE / Backend / Full-Stack roles** — placement season 2026. Open to full-time & internship opportunities.
 
 ---
 
