@@ -23,7 +23,7 @@
 
 ```javascript
 const dhruv = {
-  role        : "Full-Stack MERN Developer | Final Year B.E (IT) @ GEC Modasa",
+  role        : "Full-Stack MERN Developer | Final Year B.E. (IT) @ GEC Modasa",
   location    : "Ahmedabad, Gujarat, India 🇮🇳",
   stack       : ["MongoDB", "Express.js", "React.js", "Node.js"],
   currentFocus: "High-performance web apps + AI/LLM integrations (Groq, Llama)",
