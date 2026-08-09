@@ -13,7 +13,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dhruv-pancha145&color=61DAFB&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Dhruv-Panchal145&color=61DAFB&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -86,14 +86,14 @@ wanderlust/       Airbnb-style platform — Node + EJS + Passport.js + Cloudinar
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruv-pancha145&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhruv-Panchal145&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-pancha145&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61DAFB&text_color=ffffff" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dhruv-pancha145&theme=tokyonight&hide_border=true&background=0d1117&stroke=61DAFB&ring=61DAFB&fire=FF9500&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888)
+![GitHub Streak](https://streak-stats.demolab.com?user=Dhruv-Panchal145&theme=tokyonight&hide_border=true&background=0d1117&stroke=61DAFB&ring=61DAFB&fire=FF9500&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888)
 
 </div>
 
@@ -103,7 +103,7 @@ wanderlust/       Airbnb-style platform — Node + EJS + Passport.js + Cloudinar
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=dhruv-pancha145&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Dhruv-Panchal145&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
 
@@ -113,7 +113,7 @@ wanderlust/       Airbnb-style platform — Node + EJS + Passport.js + Cloudinar
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruv-pancha145&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=61DAFB&line=61DAFB&point=ffffff)](https://github.com/dhruv-pancha145)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-Panchal145&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=61DAFB&line=61DAFB&point=ffffff)](https://github.com/Dhruv-Panchal145)
 
 </div>
 
