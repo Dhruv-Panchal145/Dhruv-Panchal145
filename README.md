@@ -87,7 +87,7 @@ wanderlust/       Airbnb-style platform — Node + EJS + Passport.js + Cloudinar
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhruv-Panchal145&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-pancha145&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61DAFB&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Panchal145&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61DAFB&text_color=ffffff" />
 
 </div>
 
