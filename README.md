@@ -70,13 +70,17 @@ const dhruv = {
 nexa-ai/          AI chat app — React + Groq (Llama 3.3 70B) + MongoDB Atlas
 zerodha-clone/    Stock trading dashboard — MERN + JWT + weighted avg pricing
 wanderlust/       Airbnb-style platform — Node + EJS + Passport.js + Cloudinary
+Live Desk/          Video conferencing app — React + Node.js + WebRTC + Socket.IO + MongoDB
+
 ```
 
 <div align="center">
 
 [![NEXA AI](https://img.shields.io/badge/NEXA%20AI-Live-61DAFB?style=flat-square&logo=vercel)](https://nexagpt-frontend-3ci5.vercel.app)&nbsp;
 [![Zerodha Clone](https://img.shields.io/badge/Zerodha%20Clone-Live-00C805?style=flat-square&logo=vercel)](https://zerodha-clone-frontend.vercel.app)&nbsp;
-[![Wanderlust](https://img.shields.io/badge/Wanderlust-Live-FF5A5F?style=flat-square&logo=render)](https://wanderlust-sqgw.onrender.com)
+[![Wanderlust](https://img.shields.io/badge/Wanderlust-Live-FF5A5F?style=flat-square&logo=render)](https://wanderlust-sqgw.onrender.com)&nbsp;
+[![Wanderlust](https://img.shields.io/badge/live-desk-Live-FF5A5F?style=flat-square&logo=render)](https://live-desk-frontend.vercel.app/)
+
 
 </div>
 
