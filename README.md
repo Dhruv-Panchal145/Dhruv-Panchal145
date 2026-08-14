@@ -79,7 +79,7 @@ Live Desk/          Video conferencing app — React + Node.js + WebRTC
 [![NEXA AI](https://img.shields.io/badge/NEXA%20AI-Live-61DAFB?style=flat-square&logo=vercel)](https://nexagpt-frontend-3ci5.vercel.app)&nbsp;
 [![Zerodha Clone](https://img.shields.io/badge/Zerodha%20Clone-Live-00C805?style=flat-square&logo=vercel)](https://zerodha-clone-frontend.vercel.app)&nbsp;
 [![Wanderlust](https://img.shields.io/badge/Wanderlust-Live-FF5A5F?style=flat-square&logo=render)](https://wanderlust-sqgw.onrender.com)&nbsp;
-[![Wanderlust](https://img.shields.io/badge/live-desk-Live-FF5A5F?style=flat-square&logo=render)](https://live-desk-frontend.vercel.app/)
+[![Live Desk](https://img.shields.io/badge/Live%20Desk-Live-6C63FF?style=flat-square&logo=vercel)](https://live-desk-frontend.vercel.app/)
 
 
 </div>
